@@ -20,7 +20,7 @@ function getName() {
       console.log(i);
     }
   }
-  document.write(getName);
+  document.write(userName);
   
   getName();
   // a and b are the input
