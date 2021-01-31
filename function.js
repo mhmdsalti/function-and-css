@@ -19,7 +19,7 @@ function getName() {
     for (var i = 0; i <= 10; i++) {
       console.log(i);
     }
-  }
+  };
   
   
   getName();
@@ -35,3 +35,4 @@ function getName() {
   alert(sum);
   document.write(sum);
   console.log(getSum(20, 5));
+  
